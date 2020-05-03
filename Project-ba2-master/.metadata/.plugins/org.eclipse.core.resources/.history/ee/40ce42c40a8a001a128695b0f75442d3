@@ -1,0 +1,8 @@
+package com.cts.ba2.service;
+
+import lombok.NoArgsConstructor;
+
+@NoArgsConstructor
+public class UserNotFoundException extends RuntimeException {
+
+}

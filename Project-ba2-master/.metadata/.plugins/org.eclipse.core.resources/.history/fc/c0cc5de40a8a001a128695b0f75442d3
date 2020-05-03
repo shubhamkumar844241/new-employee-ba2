@@ -1,0 +1,13 @@
+package com.cts.ba2.service;
+
+import org.springframework.boot.context.properties.ConstructorBinding;
+
+
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
+
+@NoArgsConstructor
+
+public class UserNotFoundException extends RuntimeException {
+
+}

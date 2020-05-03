@@ -1,0 +1,5 @@
+package com.cts.ba2.service;
+
+public class UserNotFoundException extends Exception {
+
+}
