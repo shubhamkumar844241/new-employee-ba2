@@ -1,0 +1,5 @@
+package com.cts.ba2.exception;
+
+public class ExceptionResponse {
+
+}

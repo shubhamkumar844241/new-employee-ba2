@@ -1,0 +1,14 @@
+package com.cts.ba2;
+
+
+//@EnableZuulProxy
+//@EnableDiscoveryClient
+
+@SpringBootApplication
+public class MyZuulGatewayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyZuulGatewayApplication.class, args);
+	}
+
+}

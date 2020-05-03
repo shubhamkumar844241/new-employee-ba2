@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cts.ba2.service.IProject&apos; to &apos;iProject&apos;&#x0D;&#x0A;- Original project: &apos;Project&apos;&#x0D;&#x0A;- Original element: &apos;com.cts.ba2.service.IProject&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cts.ba2.service.iProject&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IProject&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cts.ba2.service{IProject.java[IProject" matchStrategy="1" name="iProject" qualified="false" references="true" similarDeclarations="false" stamp="1588184714186" textual="false" version="1.0"/>
+</session>

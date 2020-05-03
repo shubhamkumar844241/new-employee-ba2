@@ -1,0 +1,11 @@
+package com.cts.ba2.service;
+
+
+
+
+public class UserNotFoundException extends RuntimeException {
+
+	public UserNotFoundException(String message) {
+		super(message);
+	}
+}
